@@ -2,8 +2,8 @@ De boas? Eu sou a LeKeu, blz?
 
 - 🔭 Programadora com interesse em back
 - 🌱 Atualmente participando de grupo de estudos de Bioinformática e GameLab
-- 😄 Pronomes: ela/dela
 - ⚡ Focando em Python e C#
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/LeKeu">
