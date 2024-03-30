@@ -1,9 +1,10 @@
 De boas? Eu sou a LeKeu, blz?
 
 - 🔭 Programadora com interesse em back
-- 🌱 Atualmente participando de grupo de estudos de Bioinformática e GameLab
+- 🌱 GameLab
 - ⚡ Focando em Python e C#
 - 😄 Pronomes: ela/dela
+-  ✔ Trabalhando com C# .Net8, Mongo, Sql server, Kafka, Rabbit e outros. 
 
 ##
 
