@@ -1,8 +1,8 @@
 De boas? Eu sou a LeKeu, blz?
 
-- 🔭 Programadora com interesse em back
+- 🔭 Programadora Backend, atualmente trabalhando como Analista de Sistemas.
+- ⚡ C#, .NET, Openshift, Mongo, SQL, Grafana, Jaeger, Kubernetes, GitLab, RedHat, Argo, Quay, Jenkins, Kafka, Rabbit, K6 e outros
 - 🌱 GameLab
-- ⚡ Focando em Python e C#
 - 😄 Pronomes: ela/dela
 -  ✔ Trabalhando com C# .Net8, Mongo, Sql server, Kafka, Rabbit e outros. 
 
